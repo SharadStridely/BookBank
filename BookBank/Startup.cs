@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -37,8 +38,12 @@ namespace BookBank
                                             .AllowAnyMethod();
                     });
             });
+            //services.AddDbContext<BookContext>(options =>
+            //    options.UseSqlServer(Configuration.GetConnectionString("BookContext")));
             services.AddControllers();
             services.AddSingleton<GenericRepository<Book>>();
+            services.AddSingleton<GenericRepository<User>>();
+            services.AddSingleton<GenericRepository<Order>>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

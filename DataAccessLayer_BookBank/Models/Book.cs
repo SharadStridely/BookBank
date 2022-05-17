@@ -5,6 +5,10 @@ using System.Text;
 
 namespace DataAccessLayer_BookBank.Models
 {
+    public enum Category
+    {
+        Arts_Music, Biography, Business, Computer_Tech, Spirituals 
+    }
     public class Book
     {
         //added now
@@ -16,6 +20,6 @@ namespace DataAccessLayer_BookBank.Models
         [Range(0,5)]
         public int Rating { get; set; }
         public string BookDetails { get; set; }
-
+        public Category Categories { get; set; }
     }
 }

@@ -10,9 +10,8 @@ namespace DataAccessLayer_BookBank.Models
         Arts_Music, Biography, Business, Computer_Tech, Spirituals 
     }
     public class Book
-    {
-        //added now
-        public int BookId { get; set; }
+    {    
+        public int BookId { get; set; }      
         public string BookName { get; set; }
         public DateTime Published { get; set; }
         public string Author { get; set; }

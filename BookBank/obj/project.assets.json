@@ -5823,11 +5823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Sharad\\Project\\BookBank\\BookBank\\BookBank.csproj",
+      "projectUniqueName": "E:\\Sharad\\Project\\SharadStridely\\BookBank\\BookBank\\BookBank.csproj",
       "projectName": "BookBank",
-      "projectPath": "E:\\Sharad\\Project\\BookBank\\BookBank\\BookBank.csproj",
+      "projectPath": "E:\\Sharad\\Project\\SharadStridely\\BookBank\\BookBank\\BookBank.csproj",
       "packagesPath": "C:\\Users\\SSavariya\\.nuget\\packages\\",
-      "outputPath": "E:\\Sharad\\Project\\BookBank\\BookBank\\obj\\",
+      "outputPath": "E:\\Sharad\\Project\\SharadStridely\\BookBank\\BookBank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SSavariya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5844,8 +5844,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Sharad\\Project\\BookBank\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj": {
-              "projectPath": "E:\\Sharad\\Project\\BookBank\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj"
+            "E:\\Sharad\\Project\\SharadStridely\\BookBank\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj": {
+              "projectPath": "E:\\Sharad\\Project\\SharadStridely\\BookBank\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj"
             }
           }
         }

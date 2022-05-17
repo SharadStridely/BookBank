@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BookBank\\BookBank\\BookBank.csproj": {}
+    "C:\\Users\\CChauhan\\Desktop\\New folder (2)\\BookBank\\BookBank.csproj": {}
   },
   "projects": {
-    "C:\\BookBank\\BookBank\\BookBank.csproj": {
+    "C:\\Users\\CChauhan\\Desktop\\New folder (2)\\BookBank\\BookBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BookBank\\BookBank\\BookBank.csproj",
+        "projectUniqueName": "C:\\Users\\CChauhan\\Desktop\\New folder (2)\\BookBank\\BookBank.csproj",
         "projectName": "BookBank",
-        "projectPath": "C:\\BookBank\\BookBank\\BookBank.csproj",
-        "packagesPath": "C:\\Users\\JSiddhpura\\.nuget\\packages\\",
-        "outputPath": "C:\\BookBank\\BookBank\\obj\\",
+        "projectPath": "C:\\Users\\CChauhan\\Desktop\\New folder (2)\\BookBank\\BookBank.csproj",
+        "packagesPath": "C:\\Users\\CChauhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CChauhan\\Desktop\\New folder (2)\\BookBank\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\JSiddhpura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CChauhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\BookBank\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj": {
-                "projectPath": "C:\\BookBank\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj"
+              "C:\\Users\\CChauhan\\Desktop\\New folder (2)\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj": {
+                "projectPath": "C:\\Users\\CChauhan\\Desktop\\New folder (2)\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj"
               }
             }
           }
@@ -83,21 +87,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\BookBank\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj": {
+    "C:\\Users\\CChauhan\\Desktop\\New folder (2)\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BookBank\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj",
+        "projectUniqueName": "C:\\Users\\CChauhan\\Desktop\\New folder (2)\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj",
         "projectName": "DataAccessLayer_BookBank",
-        "projectPath": "C:\\BookBank\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj",
-        "packagesPath": "C:\\Users\\JSiddhpura\\.nuget\\packages\\",
-        "outputPath": "C:\\BookBank\\DataAccessLayer_BookBank\\obj\\",
+        "projectPath": "C:\\Users\\CChauhan\\Desktop\\New folder (2)\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj",
+        "packagesPath": "C:\\Users\\CChauhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CChauhan\\Desktop\\New folder (2)\\DataAccessLayer_BookBank\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\JSiddhpura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CChauhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -159,7 +167,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

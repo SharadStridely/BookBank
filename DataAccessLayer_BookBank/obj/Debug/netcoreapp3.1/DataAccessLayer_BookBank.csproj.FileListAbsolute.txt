@@ -1,0 +1,13 @@
+E:\Sharad\WebApi\Project\BookBank\DataAccessLayer_BookBank\bin\Debug\netcoreapp3.1\DataAccessLayer_BookBank.deps.json
+E:\Sharad\WebApi\Project\BookBank\DataAccessLayer_BookBank\bin\Debug\netcoreapp3.1\DataAccessLayer_BookBank.dll
+E:\Sharad\WebApi\Project\BookBank\DataAccessLayer_BookBank\bin\Debug\netcoreapp3.1\DataAccessLayer_BookBank.pdb
+E:\Sharad\WebApi\Project\BookBank\DataAccessLayer_BookBank\obj\Debug\netcoreapp3.1\DataAccessLayer_BookBank.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sharad\WebApi\Project\BookBank\DataAccessLayer_BookBank\obj\Debug\netcoreapp3.1\DataAccessLayer_BookBank.AssemblyInfoInputs.cache
+E:\Sharad\WebApi\Project\BookBank\DataAccessLayer_BookBank\obj\Debug\netcoreapp3.1\DataAccessLayer_BookBank.AssemblyInfo.cs
+E:\Sharad\WebApi\Project\BookBank\DataAccessLayer_BookBank\obj\Debug\netcoreapp3.1\DataAccessLayer_BookBank.csproj.CoreCompileInputs.cache
+E:\Sharad\WebApi\Project\BookBank\DataAccessLayer_BookBank\obj\Debug\netcoreapp3.1\DataAccessLayer_BookBank.dll
+E:\Sharad\WebApi\Project\BookBank\DataAccessLayer_BookBank\obj\Debug\netcoreapp3.1\DataAccessLayer_BookBank.pdb
+E:\Sharad\WebApi\Project\BookBank\DataAccessLayer_BookBank\bin\Debug\netcoreapp3.1\DataAccessLayer_BookBank.runtimeconfig.json
+E:\Sharad\WebApi\Project\BookBank\DataAccessLayer_BookBank\bin\Debug\netcoreapp3.1\DataAccessLayer_BookBank.runtimeconfig.dev.json
+E:\Sharad\WebApi\Project\BookBank\DataAccessLayer_BookBank\obj\Debug\netcoreapp3.1\DataAccessLayer_BookBank.genruntimeconfig.cache
+E:\Sharad\WebApi\Project\BookBank\DataAccessLayer_BookBank\obj\Debug\netcoreapp3.1\DataAccessLayer_BookBank.csproj.AssemblyReference.cache

@@ -5799,19 +5799,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\skher\\.nuget\\packages\\": {}
+    "C:\\Users\\PChinai\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\git\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj",
+      "projectUniqueName": "C:\\Users\\PChinai\\Desktop\\New folder\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj",
       "projectName": "DataAccessLayer_BookBank",
-      "projectPath": "E:\\git\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj",
-      "packagesPath": "C:\\Users\\skher\\.nuget\\packages\\",
-      "outputPath": "E:\\git\\DataAccessLayer_BookBank\\obj\\",
+      "projectPath": "C:\\Users\\PChinai\\Desktop\\New folder\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj",
+      "packagesPath": "C:\\Users\\PChinai\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PChinai\\Desktop\\New folder\\DataAccessLayer_BookBank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\skher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PChinai\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5873,7 +5873,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }

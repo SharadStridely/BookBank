@@ -5819,19 +5819,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\skher\\.nuget\\packages\\": {}
+    "C:\\Users\\PChinai\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\git\\BookBank\\BookBank.csproj",
+      "projectUniqueName": "C:\\Users\\PChinai\\Desktop\\New folder\\BookBank\\BookBank.csproj",
       "projectName": "BookBank",
-      "projectPath": "E:\\git\\BookBank\\BookBank.csproj",
-      "packagesPath": "C:\\Users\\skher\\.nuget\\packages\\",
-      "outputPath": "E:\\git\\BookBank\\obj\\",
+      "projectPath": "C:\\Users\\PChinai\\Desktop\\New folder\\BookBank\\BookBank.csproj",
+      "packagesPath": "C:\\Users\\PChinai\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PChinai\\Desktop\\New folder\\BookBank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\skher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PChinai\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5845,8 +5845,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\git\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj": {
-              "projectPath": "E:\\git\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj"
+            "C:\\Users\\PChinai\\Desktop\\New folder\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj": {
+              "projectPath": "C:\\Users\\PChinai\\Desktop\\New folder\\DataAccessLayer_BookBank\\DataAccessLayer_BookBank.csproj"
             }
           }
         }
@@ -5892,12 +5892,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.22, 3.1.22]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -5906,7 +5900,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }

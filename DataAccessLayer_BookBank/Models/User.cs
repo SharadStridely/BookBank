@@ -6,6 +6,7 @@ namespace DataAccessLayer_BookBank.Models
 {
     public class User
     {
+        //adding sagar
         public int UserId { get; set; }
         public string UserName { get; set; }
         public string MobileNo { get; set; }

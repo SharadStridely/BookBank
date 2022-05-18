@@ -11,7 +11,7 @@ namespace DataAccessLayer_BookBank.Models
     }
     public class Book
     {    
-        //chintan added comment
+        
         public int BookId { get; set; }      
         public string BookName { get; set; }
         public DateTime Published { get; set; }
